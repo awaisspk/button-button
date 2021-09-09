@@ -39,9 +39,6 @@ const Home: NextPage = () => {
 
       <Button color="danger">button</Button>
       <Button color="primary">button</Button>
-      <Button color="primary">button</Button>
-
-      <Button color="primary">button</Button>
     </Container>
   )
 }
